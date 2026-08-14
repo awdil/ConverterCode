@@ -26,5 +26,5 @@ Notes
 - Transparent images are flattened onto white background before saving to JPG.
 - If you add new images later, just run `convert_images.bat` again; existing outputs will be overwritten.
 
-
-
+Related tool
+- For fixed equal width/height (pad or crop), use `EqualImageConverter` instead.

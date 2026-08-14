@@ -99,5 +99,3 @@ if __name__ == "__main__":
     # Run from the script directory (ImageConverter)
     script_dir = os.path.dirname(os.path.abspath(__file__))
     process_sources(script_dir)
-
-
